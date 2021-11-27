@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spongebobDialogOld.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spongstill0000" x="7" y="7" width="394" height="480"/>
+	<SubTexture name="spongstill0001" x="7" y="7" width="394" height="480"/>
+	<SubTexture name="spongtalk0000" x="7" y="494" width="407" height="505"/>
+	<SubTexture name="spongtalk0001" x="7" y="494" width="407" height="505"/>
+	<SubTexture name="spongtalk0002" x="7" y="1006" width="407" height="505"/>
+	<SubTexture name="spongtalk0003" x="7" y="1006" width="407" height="505"/>
+	<SubTexture name="spongtalk0004" x="7" y="1518" width="407" height="505"/>
+	<SubTexture name="spongtalk0005" x="7" y="1518" width="407" height="505"/>
+</TextureAtlas>
