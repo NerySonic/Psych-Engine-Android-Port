@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				630,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "viacom idle"
+		},
+		{
+			"offsets": [
+				630,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "viacom right"
+		},
+		{
+			"offsets": [
+				630,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "viacom left"
+		},
+		{
+			"offsets": [
+				630,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "viacom down"
+		},
+		{
+			"offsets": [
+				630,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "viacom up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/viacom",
+	"position": [
+		-30,
+		-1970
+	],
+	"healthicon": "viacom",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		40,
+		162
+	],
+	"camera_position": [
+		-780,
+		-1010
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

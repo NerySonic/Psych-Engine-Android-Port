@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-208
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				64,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky sing right"
+		},
+		{
+			"offsets": [
+				64,
+				-232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky DOWN note"
+		},
+		{
+			"offsets": [
+				39,
+				-189
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spooky dance idle"
+		},
+		{
+			"offsets": [
+				106,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "YELL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aaaaahhh",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spong-spongebob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		51
+	],
+	"camera_position": [
+		-70,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

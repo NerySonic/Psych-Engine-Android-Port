@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-838,
+				-305
+			],
+			"idle_offsets": [
+				-838,
+				-305
+			],
+			"loop_name": "spongtag",
+			"idle_name": "spongtag"
+		}
+	],
+	"image": "spongebobBox"
+}
