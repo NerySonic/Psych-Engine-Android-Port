@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Old_Spong.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spooky dance idle0000" x="2747" y="1563" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0001" x="2747" y="1563" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0002" x="3255" y="1657" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0003" x="3255" y="1657" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0004" x="5" y="2041" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0005" x="5" y="2041" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0006" x="2747" y="2118" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0007" x="2747" y="2118" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0008" x="513" y="2137" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0009" x="513" y="2137" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0010" x="3255" y="1657" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0011" x="3255" y="1657" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0012" x="1021" y="2137" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0013" x="1021" y="2137" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0014" x="2747" y="2118" width="503" height="550"/>
+	<SubTexture name="spooky dance idle0015" x="2747" y="2118" width="503" height="550"/>
+</TextureAtlas>
