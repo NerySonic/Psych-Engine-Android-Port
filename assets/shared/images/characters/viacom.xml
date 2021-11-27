@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="viacom.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="viacom down0000" x="7" y="7" width="1882" height="2851"/>
+	<SubTexture name="viacom idle0000" x="1896" y="7" width="1882" height="2851"/>
+	<SubTexture name="viacom left0000" x="3785" y="7" width="1882" height="2851"/>
+	<SubTexture name="viacom right0000" x="5674" y="7" width="1882" height="2851"/>
+	<SubTexture name="viacom up0000" x="7" y="2865" width="1882" height="2851"/>
+</TextureAtlas>
